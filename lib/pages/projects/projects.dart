@@ -335,7 +335,7 @@ class _ProjectsScreenState extends State<ProjectsScreen> {
           children: [
             ClipRRect(
                 borderRadius: BorderRadius.circular(20),
-                child: Image.asset(
+                child: Image.network(
                   img,
                   fit: BoxFit.contain,
                   height: kdDesktopMaxContentHeight * 0.5,
