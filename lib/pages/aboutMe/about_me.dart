@@ -183,7 +183,9 @@ class AboutMe extends StatelessWidget {
                         .fadeIn(duration: 1600.ms, curve: Curves.easeInBack)
                         .slide()),
                 Expanded(
-                    child: Container(child: Lottie.asset('lottie/3.json'))
+                    child: Container(
+                            child: Lottie.network(
+                                'https://lottie.host/9947991d-c042-4acd-bfcf-8f60efb9c373/SRhOJgA8MB.json'))
                         .animate()
                         .shimmer(duration: 1600.ms, color: white)
                         .animate()

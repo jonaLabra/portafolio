@@ -22,7 +22,7 @@ List<Project> projectsExperienceApp = [
       name: 'Vanglar WP',
       description: S().textEperienceVanglarWP,
       urlImages:
-          'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2FvanglarWP.png?alt=media&token=9862bfc1-09ee-4de7-9a53-2dfaccfcdd89',
+          'assets/images/vanglarWP.png', //'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2FvanglarWP.png?alt=media&token=9862bfc1-09ee-4de7-9a53-2dfaccfcdd89',
       tecnology: [
         {FontAwesomeIcons.cloud: 'Firebase'},
         {FontAwesomeIcons.mobileScreen: 'Flutter'}
@@ -41,7 +41,7 @@ List<Project> projectsExperienceApp = [
       name: 'JoinHome',
       description: S().textExperienceJoinHome,
       urlImages:
-          'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2FjoinHome.png?alt=media&token=c0f743ca-3e77-4e92-8e8a-9d2b370525a4',
+          'assets/images/joinHome.png', //'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2FjoinHome.png?alt=media&token=c0f743ca-3e77-4e92-8e8a-9d2b370525a4',
       tecnology: [
         {FontAwesomeIcons.laravel: 'Laravel'},
         {FontAwesomeIcons.mobileScreen: 'Flutter'}
@@ -60,7 +60,7 @@ List<Project> projectsExperienceApp = [
       name: 'ChatmMessage',
       description: S().textExperienceChatMessage,
       urlImages:
-          'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fchat.png?alt=media&token=0386ba9f-b255-4c6a-b255-3346bf5b2279',
+          'assets/images/chat.png', //'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fchat.png?alt=media&token=0386ba9f-b255-4c6a-b255-3346bf5b2279',
       tecnology: [
         {
           FontAwesomeIcons.nodeJs: 'Node JS',
@@ -81,7 +81,7 @@ List<Project> projectsExperienceWeb = [
       name: 'Vanglar Dashboard',
       description: S().textExperienceVanlgarDashboard,
       urlImages:
-          'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fdashboard.png?alt=media&token=0d361331-cdb3-45a5-81e2-40bfe2154b66',
+          'assets/images/dashboard.png', //'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fdashboard.png?alt=media&token=0d361331-cdb3-45a5-81e2-40bfe2154b66',
       tecnology: [
         {FontAwesomeIcons.vuejs: 'Vue JS'},
         {FontAwesomeIcons.nodeJs: 'Node JS'},
@@ -97,7 +97,7 @@ List<Project> projectsExperienceWeb = [
       name: 'The Terrible',
       description: S().textExperienceTerrible,
       urlImages:
-          'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fterrible.png?alt=media&token=4f3fdd86-130a-4c03-9cbb-051925b57396',
+          'assets/images/terrible.png', //'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fterrible.png?alt=media&token=4f3fdd86-130a-4c03-9cbb-051925b57396',
       tecnology: [
         {FontAwesomeIcons.cloud: 'Firebase'},
         {FontAwesomeIcons.mobileScreen: 'Flutter'}
@@ -109,7 +109,7 @@ List<Project> projectsExperienceWeb = [
       name: S().TextPortfolioProject,
       description: S().textExperienceProjectPortfolio,
       urlImages:
-          'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fportafolio.png?alt=media&token=55835205-3794-4606-9ba9-dcd63cd1a380',
+          'assets/images/portafolio.png', //'https://firebasestorage.googleapis.com/v0/b/flutter-b13a9.appspot.com/o/vanglarWP%2Fportafolio.png?alt=media&token=55835205-3794-4606-9ba9-dcd63cd1a380',
       tecnology: [
         {FontAwesomeIcons.cloud: 'Firebase'},
         {FontAwesomeIcons.mobileScreen: 'Flutter'}
