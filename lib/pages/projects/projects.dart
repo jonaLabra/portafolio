@@ -1,5 +1,4 @@
 // ignore_for_file: must_be_immutable
-
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
@@ -61,7 +60,9 @@ class _ProjectsScreenState extends State<ProjectsScreen> {
                         .fadeIn(duration: 1600.ms, curve: Curves.easeInBack)
                         .slide(),
                   ),
-                  Container(child: Lottie.asset('lottie/1.json'))
+                  Container(
+                          child: Lottie.network(
+                              'https://lottie.host/f1d8654c-48a3-45dc-92e5-1e566ee76bf1/IcpFhIsC4z.json'))
                       .animate()
                       .shimmer(duration: 1600.ms, color: white)
                       .animate()
@@ -177,7 +178,8 @@ class _ProjectsScreenState extends State<ProjectsScreen> {
                   ),
                   SizedBox(
                           height: MediaQuery.of(context).size.height * .30,
-                          child: Lottie.asset('lottie/1.json'))
+                          child: Lottie.network(
+                              'https://lottie.host/f1d8654c-48a3-45dc-92e5-1e566ee76bf1/IcpFhIsC4z.json'))
                       .animate()
                       .shimmer(duration: 1600.ms, color: white)
                       .animate()
