@@ -1,0 +1,18 @@
+{
+    "textHi": "Hola! Soy",
+    "textName": "Jonathan Labra",
+    "textHelloIntroduction": "Desarrollador móvil y web, con experiencia en desarollo de app multiplataforma y nativa. \n Tambien cuento con experiencia en desarrollo front-end y back-end",
+    "textSkills": "Hablidades",
+    "textAboutMe": "Acerca de mí",
+    "textProjects": "Proyectos",
+    "textSummary": "Resumen",
+    "textExperience": "Experiencia",
+    "TextPortfolioProject": "Portafolio de proyectos",
+    "textExperienceVanlgarDashboard": "Vanglar Dashboard en una pagina que permite administrar y visualizar toda la información que los usuarios capturan desde la app Vanglar WP, contiene tablas de información, tracking, y resultados de examenes y reportes.\n",
+    "textEperienceVanglarWP": "Vanglar es una empresa especializada en capacitación y cumplimiento normativo (compliance).\n  La aplicación permite a los usuarios capacitarse mediante cuestionarios, ademas que cuentan con diferentes funciones que permiten levantar información como reportes mediante widgets dinámicos como captura de imagenes desde cámara y galeria, busqueda de ubicación con google map y street view, generación de codigos QR, y validación de aprendizaje mediante certificados.",
+    "textExperienceJoinHome": "Es una aplicación diseñada para fraccionamientos en las que puedan organizar visitas, eventos y obtener mayor seguridad en los residentes.\n",
+    "textExperienceChatMessage": "Aplicación diseñada para mensajes en tiempo real, conectada mediante sockets donde los usuarios podrán ver status de conexión de otros usuarios.\n",
+    "textExperienceTerrible": "The terrible es una pagina diseñada para la venta e información de el mezcal.\n",
+    "textExperienceProjectPortfolio": "Plataforma para viusualizar mi experiencia y conocimientos en el desarrollo de software.\n"
+
+}
