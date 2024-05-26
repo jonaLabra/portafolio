@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:portafolio/pages/home.dart';
+import 'package:portafolio/pages/home/home.dart';
 
 // ignore: non_constant_identifier_names
 final Map<String, Widget Function(BuildContext)> app_routes = {
